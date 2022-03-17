@@ -1,0 +1,5 @@
+n1 = float(input('Qual O PESO:'))
+n2 = float(input('Qual A ALTURA:'))
+s = n2 ** 2
+d = n1 / s
+print('O valor do IMC: {}'.format(d))
